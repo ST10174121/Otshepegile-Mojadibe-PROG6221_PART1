@@ -11,3 +11,4 @@ Create the Recipe
 Display the Recipe Created
 Clear the recipe Created( it will automatically clear the recipe when the user decides to created a new recipe.
 Lastly the user can exit the Application
+### How To Compile The Application!!
