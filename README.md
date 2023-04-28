@@ -14,10 +14,7 @@ Lastly the user can exit the Application
 ### How To Compile The Application!!
 Open the file in Essential CookBook folder and open the file with ESSENTIAL_COOKBOOK.cs
 Then execute the code with the green button on the tab
-#### Testing Visual Studios Commits
+####Testing Visual Studios Commits
 First commit
 Second commit
 Third commit
-##### Problems with the Code
-The code does not necessary scale the recipe to a factor
-the code does not neccessary display the ingredients and steps in an array form
