@@ -18,3 +18,6 @@ Then execute the code with the green button on the tab
 First commit
 Second commit
 Third commit
+#####Problems with the Code
+The code does not necessary scale the recipe to a factor
+the code does not neccessary display the ingredientts and steps in an array form
