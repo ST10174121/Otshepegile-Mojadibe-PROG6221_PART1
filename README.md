@@ -18,4 +18,4 @@ Then execute the code with the green button on the tab
 First commit
 Second commit
 Third commit
-###### Cconnect this respiratory to the submission link Repiratory
+###### Connect this respiratory to the submission link Repiratory
