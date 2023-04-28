@@ -12,3 +12,5 @@ Display the Recipe Created
 Clear the recipe Created( it will automatically clear the recipe when the user decides to created a new recipe.
 Lastly the user can exit the Application
 ### How To Compile The Application!!
+Open the file in Essential CookBook folder and open the file with ESSENTIAL_COOKBOOK.cs
+Then execute the code with the green button on the tab
